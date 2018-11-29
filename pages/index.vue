@@ -107,7 +107,18 @@ let claims = [
   "Spätzünder",
   "Warmduscher",
   "Angela Merkel",
-  "Respektvoll"
+  "Respektvoll",
+  "Schwarzer Block",
+  "Möwenschiss",
+  "Bier am Hafen",
+  "unser Haus",
+  "Sammy gibt ein' aus!",
+  "Bass Bass Bass",
+  "viel Liebe",
+  "Hand in Hand",
+  "in schwarz",
+  "Nachtbaden",
+  "Buttermilch"
 ];
 let specialClaims = ["weihnachtlich", "noch ein Punsch"];
 
