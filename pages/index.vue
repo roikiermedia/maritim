@@ -40,8 +40,8 @@ let claims = [
   "Anker werfen",
   "Klinkenkabel",
   "Einen Schippern",
-	"Die drei ???",
-	"Thore hat Geburtstag",
+  "Die drei ???",
+  "Thore hat Geburtstag",
   "Stark vermindert",
   "Mutig",
   "Durchgefeiert",
@@ -158,7 +158,7 @@ h1 {
   left: 7.5vw;
 
   color: white;
-  font-family: 'Pier Sans' ,'Montserrat', sans-serif;
+  font-family: "Pier Sans", "Montserrat", sans-serif;
   font-size: 64px;
   font-weight: 700;
   text-transform: uppercase;
