@@ -142,6 +142,9 @@ export default {
 html,
 body {
   background-color: black;
+}
+
+body {
   overflow: hidden;
 }
 
