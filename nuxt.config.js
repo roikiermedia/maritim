@@ -15,5 +15,8 @@ module.exports = {
         href: "https://fonts.googleapis.com/css?family=Montserrat:700"
       }
     ]
+  },
+  generate: {
+    dir: 'docs'
   }
 };
