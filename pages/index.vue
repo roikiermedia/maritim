@@ -103,12 +103,13 @@ let claims = [
   "Helium",
   "Luftballon",
   "Macarena",
-  "Gutscheincode"
+  "Gutscheincode",
+  "Spätzünder",
+  "Warmduscher",
+  "Angela Merkel",
+  "Respektvoll"
 ];
-let specialClaims = [
-  "weihnachtlich",
-  "noch ein Punsch"
-];
+let specialClaims = ["weihnachtlich", "noch ein Punsch"];
 
 export default {
   data() {
