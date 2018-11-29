@@ -1,0 +1,13 @@
+{
+  "name": "maritim.fun",
+  "version": "0.0.1",
+  "author": "Thorben Dittmar <roikiermedia@users.noreply.github.com>",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "nuxt": "^2.3.4"
+  }
+}
