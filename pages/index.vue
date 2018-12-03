@@ -118,7 +118,26 @@ let claims = [
   "Hand in Hand",
   "in schwarz",
   "Nachtbaden",
-  "Buttermilch"
+  "Buttermilch",
+  "Fischfilet",
+  "leicht verliebt",
+  "Alles Anders",
+  "DJ Shuffle",
+  "übersteuert",
+  "Alles Allen",
+  "NZS BXN",
+  "Wegbassen",
+  "Parolen Gröhlen",
+  "Moin sagen",
+  "nich' lang schnacken",
+  "Sterni-Fanta",
+  "Cola-Korn",
+  "Keine Panik",
+  "Alles geht vorbei.",
+  "Vieles kommt wieder.",
+  "Wasted in Flensburg",
+  "Bock drauf",
+  "schlecht tanzen"
 ];
 let specialClaims = ["weihnachtlich", "noch ein Punsch"];
 
