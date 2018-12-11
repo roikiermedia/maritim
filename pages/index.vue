@@ -175,7 +175,15 @@ let claims = [
   "wanken im Wind",
   "Sturmflut",
   "schon da",
-  "festhalten"
+  "festhalten",
+  "Nähe spüren",
+  "nur für dich",
+  "passt schon",
+  "wahnsinnig",
+  "Tanzarbeit",
+  "wasserfest",
+  "hochseetauglich",
+  "+1"
 ];
 
 export default {
