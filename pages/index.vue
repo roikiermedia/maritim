@@ -230,8 +230,8 @@ main {
 
 h1 {
   position: relative;
-  top: 35vh;
-  left: 7.5vw;
+  top: 45vh;
+  left: 5vw;
 
   color: white;
   font-family: "Pier Sans", "Montserrat", sans-serif;
@@ -248,13 +248,13 @@ h1 {
 }
 
 .in {
-  transform: translateY(70vh);
+  transform: translateY(50vh);
   transition: none;
   opacity: 0;
 }
 
 .out {
-  transform: translateY(-70vh);
+  transform: translateY(-50vh);
   opacity: 0;
 }
 </style>
