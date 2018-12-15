@@ -183,7 +183,14 @@ let claims = [
   "Tanzarbeit",
   "wasserfest",
   "hochseetauglich",
-  "+1"
+  "+1",
+  "Glashalle",
+  "ist das B1?",
+  "Teile schmeißen",
+  "Blinkenlights",
+  "Rakeden-Doro",
+  "CYBER",
+  "Pures Chaos"
 ];
 
 export default {
