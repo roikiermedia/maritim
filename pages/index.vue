@@ -190,7 +190,14 @@ let claims = [
   "Blinkenlights",
   "Rakeden-Doro",
   "CYBER",
-  "Pures Chaos"
+  "Pures Chaos",
+  "Fledermausland",
+  "Pfeffi exen",
+  "Wildes Herz",
+  "Bluetoothbox",
+  "fette Anlage",
+  "scheiße benomm'",
+  "Schrammelpunk"
 ];
 
 export default {
