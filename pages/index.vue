@@ -197,7 +197,13 @@ let claims = [
   "Bluetoothbox",
   "fette Anlage",
   "scheiße benomm'",
-  "Schrammelpunk"
+  "Schrammelpunk",
+  "niemals Ebbe",
+  "geistiger Leerstand",
+  "Nachts oft wach",
+  "wetterfest",
+  "ab dafür",
+  "gut dabei"
 ];
 
 export default {
